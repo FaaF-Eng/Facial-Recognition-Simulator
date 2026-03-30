@@ -25,15 +25,15 @@ It allows users to:
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Project+Preview" alt="preview" />
+  <img src="demo.gif"></img>
 </p>
 
 ---
 
 ## 🛠️ Technologies Used
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap" />
+<p align="center">
+  <img src="./assets/demo.gif" width="1000" />
 </p>
 
 **Main stack:**
