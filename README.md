@@ -24,9 +24,8 @@ It allows users to:
 
 ## 🖼️ Preview
 
-<p align="center">
-  <img src="demo.gif"></img>
-</p>
+🔗 **Access here:**
+👉 https://www.youtube.com/watch?v=JTpFa7HMog0
 
 ---
 
